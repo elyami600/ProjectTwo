@@ -53,7 +53,7 @@ app.get('/test_three',(req, res) => {
 });
 
 //Test FOUR://
-app.get('/test_four', (req,res) => {
+app.postgit ('/test_four', (req,res) => {
 
 });
 
