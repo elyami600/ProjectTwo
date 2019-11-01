@@ -36,4 +36,4 @@ class FakeAssDatabase {
 
 }
 
-module.export = FakeAssDatabase ;
+module.exports = FakeAssDatabase ;
